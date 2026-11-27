@@ -1,0 +1,6 @@
+{
+  "name": "Lexicon Isle",
+  "description": "2D Top-down Pixel-art Chibi RPG for natural contextual English learning (A1-B1) with exploration, farming, crafting, riddles, and Word Strike combat.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
